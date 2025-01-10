@@ -1,5 +1,5 @@
 # Official Joke API
-
+#also use reate limiter for your backend api's
 ## Endpoints:
 
 ### Grab a random joke
